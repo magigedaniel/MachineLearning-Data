@@ -1,0 +1,6 @@
+Contracts,Order No.,Transaction Time(UTC+0),Leverage,Direction,Order Type,Filled Type,Filled Qty,Filled Price,Order Price,Trading Fee Rate,Fees Paid,Transaction ID
+HOTUSDT,6f5621d8,2023-01-10 18:22:54,10,Close Long,Limit,Trade,195500,0.001692,0.001692,0.0001,0.0330786,ceb20373
+HOTUSDT,b113ecfc,2023-01-10 18:20:35,10,Open Long,Market,Trade,194200,0.001675,Market,0.0006,0.195171,56fc4dd8
+HOTUSDT,b113ecfc,2023-01-10 18:20:35,10,Open Long,Market,Trade,1300,0.001675,Market,0.0006,0.0013065,a096bc6e
+DYDXUSDT,7084be83,2023-01-10 12:47:16,10,Close Long,Market,Trade,125.7,1.380,Market,0.0006,0.1040796,9207275b
+DYDXUSDT,7084be83,2023-01-10 12:47:16,10,Close Long,Market,Trade,177.1,1.380,Market,0.0006,0.1466388,9a084216
